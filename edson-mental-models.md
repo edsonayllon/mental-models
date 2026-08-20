@@ -9,59 +9,58 @@
 ## Monthly Cycle Order
 
 1. **Performance Review** (Step 0 — input for Mistake Family)
----
-**Analytical Models** (#1–20) — Pure asset/market evaluation:
-2. **Mistake Family** (Model #1)
-3. **First Principles** (Model #2)
-4. **Waves** (Model #3)
-5. **Constants** (Model #4)
-6. **Inversion** (Model #5)
-7. **Compounding Effects** (Model #6)
-8. **Owner's Perspective** (Model #7)
-9. **Moat** (Model #8)
-10. **Problem We're Solving** (Model #9)
-11. **Growth Potential** (Model #10)
-12. **Red Queen Effect** (Model #11)
-13. **Critical Mass** (Model #12)
-14. **Incentives** (Model #13)
-15. **Scale Effects** (Model #14)
-16. **Triune Brain** (Model #15)
-17. **Occam's Razor** (Model #16)
-18. **Mean Reversion** (Model #17)
-19. **Motion** (Model #18)
-20. **Backup Systems / Redundancy** (Model #19)
-21. **Alignment** (Model #20)
----
-**Strategic/Optimization Models** (#21–28) — Hybrid analytical + decision tools:
-22. **Opportunity Cost** (Model #21)
-23. **Big Picture Awareness** (Model #22)
-24. **Pareto Principle** (Model #23)
-25. **Power Law** (Model #24)
-26. **Removal of Inefficiencies** (Model #25)
-27. **Removal of Bottlenecks** (Model #26)
-28. **Second Order Thinking** (Model #27)
-29. **Seasonality** (Model #28)
-30. **Permutation** (Model #29)
----
-**Decision-Making Filters** (#30–34) — Emotional/judgment filters (narrow → wide scope):
-31. **Patience** (Model #30 — impulse check)
-32. **Humility / Market Mistress** (Model #31 — ego check)
-33. **Shame Minimization** (Model #32 — social/ethical check)
-34. **Regret Minimization** (Model #33 — cycle-scale check)
-35. **Death Awareness** (Model #34 — lifetime-scale check)
----
-**Cognitive Bias Awareness** (#35–36) — Recognize and counteract systematic thinking errors:
-36. **Loss Aversion** (Model #35 — the master bias)
-37. **Reciprocity Bias** (Model #36 — social debt distortion)
----
-**Meta-Models** (#37–39):
-38. **Margin of Safety** (Model #37 — meta-model, synthesizes all above)
-39. **Lollapalooza Effect** (Model #38 — meta-model, detects multiplicative convergence)
-40. **Processing** (Model #39 — meta-model, throughput & termination check on the analysis and the analyst)
-41. **Trade Decision + Allocation** (output)
-42. **Execute**
 
----
+
+**Analytical Models** (#1–20) — Pure asset/market evaluation:
+1. **Mistake Family** (Model #1)
+2. **First Principles** (Model #2)
+3. **Waves** (Model #3)
+4. **Constants** (Model #4)
+5. **Inversion** (Model #5)
+6. **Compounding Effects** (Model #6)
+7. **Owner's Perspective** (Model #7)
+8. **Moat** (Model #8)
+9.  **Problem We're Solving** (Model #9)
+10. **Growth Potential** (Model #10)
+11. **Red Queen Effect** (Model #11)
+12. **Critical Mass** (Model #12)
+13. **Incentives** (Model #13)
+14. **Scale Effects** (Model #14)
+15. **Triune Brain** (Model #15)
+16. **Occam's Razor** (Model #16)
+17. **Mean Reversion** (Model #17)
+18. **Motion** (Model #18)
+19. **Backup Systems / Redundancy** (Model #19)
+20. **Alignment** (Model #20)
+
+**Strategic/Optimization Models** (#21–28) — Hybrid analytical + decision tools:
+1.  **Opportunity Cost** (Model #21)
+2.  **Big Picture Awareness** (Model #22)
+3.  **Pareto Principle** (Model #23)
+4.  **Power Law** (Model #24)
+5.  **Removal of Inefficiencies** (Model #25)
+6.  **Removal of Bottlenecks** (Model #26)
+7.  **Second Order Thinking** (Model #27)
+8.  **Seasonality** (Model #28)
+9.  **Permutation** (Model #29)
+
+**Decision-Making Filters** (#30–34) — Emotional/judgment filters (narrow → wide scope):
+1.  **Patience** (Model #30 — impulse check)
+2.  **Humility / Market Mistress** (Model #31 — ego check)
+3.  **Shame Minimization** (Model #32 — social/ethical check)
+4.  **Regret Minimization** (Model #33 — cycle-scale check)
+5.  **Death Awareness** (Model #34 — lifetime-scale check)
+
+**Cognitive Bias Awareness** (#35–36) — Recognize and counteract systematic thinking errors:
+1.  **Loss Aversion** (Model #35 — the master bias)
+2.  **Reciprocity Bias** (Model #36 — social debt distortion)
+
+**Meta-Models** (#37–39):
+1.  **Margin of Safety** (Model #37 — meta-model, synthesizes all above)
+2.  **Lollapalooza Effect** (Model #38 — meta-model, detects multiplicative convergence)
+3.  **Processing** (Model #39 — meta-model, throughput & termination check on the analysis and the analyst)
+4.  **Trade Decision + Allocation** (output)
+5.  **Execute**
 
 ## Step 0: Performance Review (Pre-Model Input)
 **Purpose:** Know what happened before analyzing mistakes.
